@@ -1211,7 +1211,6 @@ footer {
   margin-bottom: 10px;
   padding: 2px 4px;
 }
-/* Sreejit's CSS ends here */
 
 .pooja-sanwal {
   text-align: center;
@@ -1237,13 +1236,4 @@ footer {
   margin: 0px 10px;
 }
 
-/* Scroll button */
-#scroll {
-  width: 100px;
-    position: fixed;
-    bottom: 2vh;
-    right: 0;
-}
-#scroll img {
-  width: 100px;
-}
+/* Sreejit's CSS ends here */
